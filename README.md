@@ -19,3 +19,11 @@ And The Memorial
 
 4. And then we have drawn the field, pool and flag to 
    complete the drawing of National Martyrs Memorial.
+# Tools Stack:
+Language: C++
+
+IDE: Codeblocks.
+
+Library: Glut, Freeglut, OpenGL .
+
+
